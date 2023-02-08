@@ -13,3 +13,8 @@ a script that lists all the files in the directories in ascending order
 a script that prints the file iamafile located in /tmp
 creaate a symbolic link to /bin/ls , named _ls_ in the current working directory
  a script that copies all the new HTML files from the current working directory to its parent directory
+A script that moves all uppercase files to /tmp/u
+delete all files that end with the character ~ in the current working directory
+script that creates new directories ,welcome/ ,welcome/to/ and welcome/to/school
+list all the files and directories in the current working directory that are seperated by  (,)s
+Create a magic file that can be used with th command file to detect school data files
