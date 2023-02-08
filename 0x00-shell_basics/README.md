@@ -9,4 +9,7 @@ move the file betty from /tmp/ to /tmp/my_first_directory
 delete the file betty
 Delete the directory my_first_directory that is in the /tmp directory
 A script that changes the working directory to the previous one
-
+a script that lists all the files in the directories in ascending order
+a script that prints the file iamafile located in /tmp
+creaate a symbolic link to /bin/ls , named _ls_ in the current working directory
+ a script that copies all the new HTML files from the current working directory to its parent directory
